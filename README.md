@@ -1,4 +1,4 @@
-# Gitbook Simple Page TOC Plugin
+# Gitbook Simple Page TOC Plugin [![npm version](https://badge.fury.io/js/gitbook-plugin-simple-page-toc.svg)](https://badge.fury.io/js/gitbook-plugin-simple-page-toc)
 
 This plugin inserts a table of content (TOC) section into your GitBook page. It is powered by the  [markdown-toc](https://github.com/jonschlinkert/markdown-toc) library.
 
