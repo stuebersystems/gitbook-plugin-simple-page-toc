@@ -31,8 +31,8 @@ You can add the following configuration params to your `book.json`:
 		"simple-page-toc": {
 			"maxDepth": 3,
 			"skipFirstH1": true
-   	}
-  }
+   		}
+	}
 }			
 ```
 
@@ -45,3 +45,4 @@ skipFirstH1 | Boolean |    true | Exclude the first h1-level heading in a file.
 
 * 0.1.0 Releases:
   * 0.1.0 First release
+  * 0.1.1 Fixed invalid config example in README (thanks at15) 
