@@ -31,8 +31,9 @@ You can add the following configuration params to your `book.json`:
 		"simple-page-toc": {
 			"maxDepth": 3,
 			"skipFirstH1": true
-   }
-}		
+   	}
+  }
+}			
 ```
 
 Name        | Type    | Default | Description 
