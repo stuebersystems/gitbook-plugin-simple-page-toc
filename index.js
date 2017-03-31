@@ -16,7 +16,6 @@ module.exports = {
 				};
 				
 				page.content = toc.insert(page.content, {
-					slugify: require('uslug'),
 					maxdepth: _maxDepth,
 					firsth1: _skipFirstH1
 				});

@@ -1,6 +1,6 @@
 ﻿{
 	"name": "gitbook-plugin-simple-page-toc",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "Create a table of content (TOC) for a page in your Gitbook",
     "main": "index.js",
     "license": "Apache-2.0",
@@ -17,7 +17,6 @@
 		"url": "https://github.com/stuebersystems/gitbook-plugin-simple-page-toc/issues"
 	},
 	"dependencies": {
-		"markdown-toc": "^0.12.16",
-		"uslug": "^1.0.4"
+		"markdown-toc": "^1.1.0"
 	}
 }

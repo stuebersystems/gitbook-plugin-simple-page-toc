@@ -46,3 +46,4 @@ skipFirstH1 | Boolean |    true | Exclude the first h1-level heading in a file.
 * 0.1.0 Releases:
   * 0.1.0 First release
   * 0.1.1 Fixed invalid config example in README (thanks at15) 
+  * 0.1.2 Fixed bug: Titles with hyphen builds with wrong anchor link
